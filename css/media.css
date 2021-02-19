@@ -1,0 +1,933 @@
+/* Maks style */
+@media screen and (max-width: 1440px) {
+    .trade-anywhere__contentBlocks {
+        flex-direction: column;
+    }
+
+    .second-line {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .counter_block {
+        width: 50%;
+    }
+
+    .accordion {
+        width: 100%;
+    }
+
+    .counter_block_secondRow {
+        margin-top: 80px;
+    }
+
+    .trade-anywhere__title--firstRow {
+        font-size: 70px;
+        line-height: 49px;
+    }
+
+    .trade-anywhere_main-title {
+        font-size: 76px;
+        line-height: 95px;
+    }
+
+}
+
+@media screen and (max-width: 1170px) {
+    .investing__flex-block {
+        flex-direction: column;
+    }
+
+    .trade-anywhere__contentBlocks {
+        margin-bottom: 120px;
+    }
+
+    .investing__blockText {
+        max-width: 80%;
+    }
+
+    .investing__sign {
+        margin-bottom: 85px;
+    }
+
+    .mob {
+        display: block;
+    }
+
+    .desc {
+        display: none;
+    }
+
+    .investing__title--text {
+        font-size: 73px;
+        line-height: 62px;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .descMenu {
+        display: none;
+    }
+
+    .window {
+        display: block;
+    }
+
+    .trade-anywhere_main-title {
+        font-size: 61px;
+        line-height: 70px;
+    }
+
+    .accordion-toggle.active:after {
+        display: none;
+    }
+
+    .accordion-toggle.active:before {
+        display: none;
+    }
+
+    .accordion-toggle:before {
+        display: none;
+    }
+
+
+
+    @media screen and (max-width: 956px) {
+        .investing__title--text {
+            font-size: 63px;
+            line-height: 50px;
+        }
+    }
+}
+
+@media screen and (max-width: 890px) {
+    .main-title {
+        font-size: 73px;
+        line-height: 70px;
+    }
+
+    .investing__title--text {
+        font-size: 55px;
+        line-height: 41px;
+    }
+
+    .trade-anywhere_main-title {
+        font-size: 61px;
+        line-height: 70px;
+    }
+}
+
+@media screen and (max-width: 840px) {
+    .acc-main-title span {
+        display: none;
+    }
+
+    .trade-anywhere__mainTitle {
+        padding-bottom: 60px;
+    }
+
+    .trade-anywhere_main-title {
+        font-size: 54px;
+        line-height: 70px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .mob {
+        width: 600px;
+    }
+
+    .logo-link {
+        padding-left: 40px;
+    }
+
+    .window .header ul.menu {
+        margin-left: 40px;
+    }
+
+    .header-mob-lang {
+        left: 40px;
+    }
+
+    .burger-container {
+        margin-right: 40px;
+    }
+
+    .investing__title--text {
+        font-size: 58px;
+        line-height: 56px;
+    }
+
+    .investing__title--firstRow {
+        margin-bottom: 17px;
+    }
+
+    .investing__blockText {
+        max-width: 100%;
+    }
+
+    .investing-blockText__text {
+        font-size: 26px;
+        line-height: 42px;
+    }
+
+    .investing__title {
+        padding-bottom: 60px !important;
+    }
+
+    .acc-title h4 {
+        line-height: 26px;
+    }
+
+    .investing__title--text {
+        font-size: 49px;
+        line-height: 50px;
+    }
+
+    .trade-anywhere_main-title {
+        font-size: 56px;
+        line-height: 60px;
+    }
+
+
+
+}
+
+@media screen and (max-width: 690px) {
+    .mob {
+        width: 400px;
+    }
+
+    .investing__title {
+        padding-bottom: 30px !important;
+    }
+
+    .main-title {
+        font-size: 57px;
+        line-height: 41px;
+    }
+
+    .trade-anywhere_main-title {
+        line-height: 60px;
+    }
+
+    .trade-anywhere__platforms {
+        flex-direction: column;
+    }
+
+    .trade-anywhere__platforms a {
+        padding-bottom: 30px;
+    }
+
+    .trade-anywhere__content, .trade-anywhere__contentBlock {
+        width: 100%;
+    }
+
+    .trade-anywhere__links {
+        width: auto;
+    }
+
+    .trade-anywhere__platforms {
+        width: auto;
+    }
+
+    .accordion-num {
+        display: none;
+    }
+
+    .accordion-content p {
+        padding-left: 0px;
+    }
+
+    .investing__title--text {
+        font-size: 43px;
+        line-height: 44px;
+    }
+}
+
+@media screen and (max-height: 680px) {
+    .window .header ul.menu {
+        margin-top: 90px;
+    }
+
+    .mob-menu-item {
+        margin-top: 24px;
+    }
+}
+
+@media screen and (max-width: 641px) {
+    .acc-sq {
+        display: none;
+    }
+
+    .acc-title h4 {
+        padding-left: 0px;
+    }
+
+    .acc-article article {
+        padding-left: 0px;
+    }
+
+    .trade-anywhere__contentBlocks {
+        margin-bottom: 60px;
+    }
+
+    .trade-anywhere_main-title {
+        font-size: 52px !important;
+        line-height: 55px !important;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    .counters_block {
+        flex-direction: column;
+        margin-top: 90px;
+        padding-bottom: 80px;
+    }
+
+    .counter_block-second, .counter_block_secondRow {
+        margin-top: 70px;
+    }
+
+    .investing__title {
+        padding-bottom: 0px;
+    }
+
+    .investing__title--text {
+        font-size: 39px;
+        line-height: 40px;
+    }
+
+    .trade-anywhere_main-title {
+        font-size: 47px !important;
+    }
+
+}
+
+@media screen and (max-width: 550px) {
+    .main-title {
+        font-size: 44px;
+        line-height: 25px;
+    }
+
+    .investing__title--text {
+        font-size: 36px;
+        line-height: 44px;
+    }
+
+    .trade-anywhere_main-title {
+        font-size: 40px !important;
+        line-height: 50px !important;
+    }
+}
+
+
+@media screen and (max-width: 479px) {
+    .investing__flex-block {
+        margin-bottom: 80px;
+    }
+
+    .trade-anywhere__mainTitle {
+        padding-top: 118px;
+    }
+
+    .platforms-first-col {
+        width: 234px;
+    }
+
+    .main-title {
+        font-size: 32px;
+        line-height: 11px;
+    }
+
+    .trade-anywhere__links {
+        flex-direction: column;
+    }
+
+    .trade-anywhere__platforms a {
+        font-size: 19px;
+        line-height: 19px;
+    }
+
+    .trade-anywhere_main-title {
+        line-height: 48px;
+    }
+
+    .ampersand {
+        display: none;
+    }
+
+    .logo-link {
+        padding-left: 20px;
+    }
+
+    .window .header ul.menu {
+        margin-left: 20px;
+    }
+
+    .header-mob-lang {
+        left: 20px;
+    }
+
+    .burger-container {
+        margin-right: 20px;
+    }
+
+    #burger {
+        width: 36px !important;
+    }
+
+    .bar {
+        height: 1px !important;
+    }
+
+    .investing__title--text {
+        font-size: 32px;
+        line-height: 31px;
+    }
+
+    .word-outline {
+        color: #fff;
+        -webkit-text-stroke: 0 #FFFFFF;
+    }
+
+    .investing-blockText__text {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .investing__sign {
+        font-size: 22px;
+    }
+
+    .mob {
+        width: 100%;
+    }
+
+    .acc-wrapper {
+        padding: 80px 0;
+    }
+
+    .acc-title h4 {
+        font-size: 20px;
+    }
+    .acc-title {
+        padding-bottom: 10px;
+    }
+
+    .acc__title--border {
+        margin-top: 28px;
+    }
+
+    .investing__title {
+        padding-top: 118px;
+    }
+
+    .investing__flex-block {
+        margin-top: 30px;
+    }
+
+    .accordion-toggle {
+        font-size: 20px;
+        line-height: 26px;
+        color: #161D1E;
+    }
+
+    .questions_title {
+        padding-top: 80px;
+    }
+
+    .accordion {
+        padding-bottom: 0px;
+    }
+
+    .investing__title--firstRow {
+        margin-bottom: 8px;
+    }
+
+    .investing__title--secondRow {
+        line-height: 47px;
+    }
+
+    .trade-anywhere_main-title {
+        font-size: 32px !important;
+        line-height: 41px !important;
+    }
+
+    .instruction__mainTitle {
+        padding-top: 160px;
+    }
+
+    .boxSteps {
+        padding-top: 20px;
+    }
+}
+
+@media screen and (max-width: 355px) {
+    .trade-anywhere_main-title {
+        font-size: 28px !important;
+        line-height: 41px !important;
+    }
+
+    .term {
+        font-size: 13px;
+    }
+}
+/* End Maks style */
+
+
+
+/* Kolya style */
+
+@media screen and (max-width: 1440px) {
+
+}
+
+@media screen and (max-width: 1300px) {
+    .startTrading-blockSteps__list .list__item{
+        width: 40%;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .startTrading__blockSteps{
+        padding: 0px;
+    }
+
+    .startTrading-blockSteps__list .list__item{
+        padding-bottom: 20px;
+        width: 45% ;
+    }
+
+    .startTrading-blockSteps__list .list__item .item__text{
+        width: 100% ;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+
+    .downloadDocuments{
+        padding: 120px 0 0 0 !important;
+    }
+
+    .wrapper-links{
+        margin-top: 60px;
+    }
+
+    .wrapper-links .list__links{
+        width: 100%;
+        margin: 0;
+    }
+
+    .list-item__numberLinks{
+        width: 15%;
+    }
+
+    .wrapper__link{
+        width: 85%;
+    }
+
+}
+
+@media screen and (max-width: 1024px) {
+    .blockInformation__boxImg{
+        width: 55%;
+    }
+    .startTrading__blockSteps{
+        width: 45%;
+    }
+
+    .startTrading-blockSteps__list .list__item{
+        width: 40% ;
+    }
+    .startTrading__blockTitle{
+        width: 100%;
+    }
+
+}
+@media screen and (max-width: 840px) {
+
+    .section__title {
+         font-size: 52px;
+         line-height: 62px;
+     }
+    .blockPhrase__phrase{
+        font-size: 55px;
+        line-height: 70px;
+    }
+    .startTrading__list{
+        padding-bottom: 24px;
+    }
+
+    .startTrading__list .list__item{
+        width: 40%;
+        align-self: flex-start;
+        margin-bottom: 90px;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .dark-container,
+    .light-container{
+        padding: 0 40px;
+    }
+
+    .wrapper__blockPhrase{
+        height: 100%;
+        margin: 60px 0 139px;
+    }
+
+    .wrapper__blockPhrase .blockPhrase{
+        padding: 0;
+    }
+
+    .blockPhrase{
+        justify-content: flex-start;
+        margin-left: -40px !important;
+        background-position-x: -47px;
+        align-items:flex-start;
+    }
+
+    .tradeEverywhere,
+    .takeItEasy{
+        height: 606px;
+    }
+    .tradeEverywhere .blockPhrase,
+    .takeItEasy .blockPhrase{
+        padding: 120px 0 0px 0;
+    }
+
+    .blockPhrase__img{
+        margin-left: -90px;
+    }
+
+    .blockPhrase .blockPhrase__phrase{
+        font-size: 57px;
+        line-height: 74px;
+        margin-top: 40px !important;
+        width: 90%;
+    }
+
+    .blockPhrase .blockPhrase__phrase{
+        margin-top: 10px;
+    }
+
+    .blockPhrase .blockPhrase__phrase,
+    .blockPhrase .blockPhrase__link{
+        margin-left: 40px;
+        text-align: left;
+    }
+
+    .blockPhrase__link{
+        text-align: left;
+        top: 486px;
+    }
+
+    .startTrading, .about {
+        padding-top: 120px;
+    }
+
+    .startTrading__blockInformation{
+        margin-top: 60px;
+        flex-direction: column-reverse;
+    }
+
+    .blockInformation__boxImg,
+    .startTrading__blockSteps{
+        width: 100%;
+    }
+
+    .blockInformation__boxImg{
+        margin-top: 71px;
+    }
+
+    .blockInformation__boxImg .blockInformation-boxImg__img{
+        width: 200%;
+    }
+
+    .tradeEverywhere,
+    .takeItEasy{
+        padding: 0;
+    }
+
+    .startTrading-blockSteps__list .list__item{
+        padding: 0px;
+    }
+
+    .startTrading-blockSteps__list .list__item:nth-child(1),
+    .startTrading-blockSteps__list .list__item:nth-child(2){
+        margin-bottom: 95px;
+    }
+
+    .about__text{
+        display: block;
+    }
+
+    .about__title{
+        max-width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .about__blockText{
+        max-width: 90%;
+    }
+
+    .about--startTrading{
+        margin-top: 76px;
+    }
+
+
+
+    .boxSteps{
+        padding-bottom: 60px;
+    }
+
+    .boxSteps .step{
+        max-width: 100%;
+    }
+
+    .boxSteps .step .step__number{
+        width: 15%;
+    }
+
+    .boxSteps .step .step__info{
+        width: 85%;
+    }
+
+
+}
+
+@media screen and (max-width: 660px) {
+
+    .blockPhrase .blockPhrase__phrase{
+        font-size: 47px;
+        line-height: 60px;
+    }
+
+    .section__title {
+        font-size: 35px;
+        line-height: 44px;
+    }
+
+    .startTrading-blockSteps__list .list__item {
+        width: 45%;
+    }
+
+    .about__title {
+        margin-bottom: 20px;
+    }
+
+    .about-blockText__text{
+        font-size: 20px;
+        line-height: 35px;
+    }
+    .startTrading__list .list__item {
+        width: 45%;
+    }
+
+    .list__links .list-item{
+        font-size: 18px;
+        line-height: 24px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+
+
+    .blockPhrase .blockPhrase__phrase{
+        font-size: 41px;
+        line-height: 55px;
+    }
+
+    .wrapper__blockPhrase .blockPhrase__img{
+        height: 225px;
+    }
+
+    .section__title {
+        font-size: 35px;
+        line-height: 44px;
+    }
+    .startTrading-blockSteps__list .list__item {
+        width: 37%;
+    }
+}
+
+
+@media screen and (max-width: 479px) {
+    .dark-container,
+    .light-container {
+        padding: 0 20px;
+    }
+
+    .wrapper__blockPhrase{
+        margin: 0;
+    }
+
+    .blockPhrase {
+        background-size: contain;
+        background-position-y: 0;
+        padding: 60px 0 0 0 ;
+    }
+
+    .tradeEverywhere .blockPhrase,
+    .takeItEasy .blockPhrase {
+        padding: 60px 0;
+    }
+
+    .tradeEverywhere,
+    .takeItEasy{
+        height: 334px;
+    }
+
+
+    .blockPhrase__img {
+        height: 147px !important;
+        margin-left: -10px;
+    }
+
+    .blockPhrase .blockPhrase__phrase {
+        font-size: 32px;
+        line-height: 44px;
+        margin-top: 10px !important;
+    }
+
+    .blockPhrase__link {
+        margin-top: 0px;
+        top: 274px;
+        font-size: 20px;
+        line-height: 19px;
+    }
+
+    .section__title {
+        font-size: 32px;
+        line-height: 44px;
+    }
+
+    .startTrading {
+        padding-top: 80px;
+    }
+
+    .startTrading-blockSteps__list .list__item {
+        width: 95%;
+        margin: 0 auto 60px auto !important;
+    }
+
+    .startTrading-blockSteps__list .list__item:nth-child(1),
+    .startTrading-blockSteps__list .list__item:nth-child(3){
+        order: 0;
+    }
+
+    .startTrading-blockSteps__list .list__item:nth-child(2),
+    .startTrading-blockSteps__list .list__item:nth-child(4){
+        order: 1;
+    }
+
+    .blockInformation__boxImg{
+        width: 90%;
+    }
+
+    .blockInformation__boxImg .blockInformation-boxImg__img{
+        width: 180%;
+    }
+
+    .startTrading-blockSteps__list .list__item .item__title {
+        font-size: 20px;
+        line-height: 19px;
+        margin-bottom: 13.65px;
+    }
+
+    .blockInformation__boxImg{
+        margin: 0;
+    }
+
+    .about{
+        padding-top: 112px;
+    }
+
+    .about-blockText__text{
+        font-size: 16px;
+        line-height: 28px
+    }
+
+    .about__blockText {
+        max-width: 100%;
+    }
+
+    .about--startTrading{
+        margin: 0;
+        padding-bottom: 94px;
+    }
+
+    .about--startTrading .list__item{
+        width: 90%;
+        margin: 60px 0 0 0 !important;
+    }
+
+    .about--startTrading  .wrapper__list-item{
+        max-width: inherit;
+    }
+
+    .about--startTrading .list__item .number--outline{
+        margin-bottom: 24px;
+    }
+
+    .about--startTrading .list__item .item__subtitle{
+        margin-bottom: 14px;
+    }
+
+    .boxSteps{
+        padding-bottom: 30px;
+    }
+
+    .boxSteps .step{
+       flex-direction: column;
+        padding: 50px 0;
+    }
+
+    .boxSteps .step .step__number,
+    .boxSteps .step .step__info{
+        width: 100%;
+    }
+
+    .boxSteps .step .step__info{
+        margin-top: 31px;
+    }
+
+    .downloadDocuments{
+        padding: 80px 0 0 0 !important;
+    }
+
+    .list-item__numberLinks{
+        display: none;
+    }
+
+
+}
+
+@media screen and (max-width: 400px) {
+
+    .
+}
+
+/* End Kolya style */
+
+
+
+/* Stas style */
+
+@media screen and (max-width: 1440px) {
+
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 479px) {
+
+}
+
+/* End Stas style */
